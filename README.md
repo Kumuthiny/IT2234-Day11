@@ -1,8 +1,13 @@
 first of all install packages (nodemon and mongoose) using cmd in the folder
+
 cmd
+
 npm init
+
 npm install express nodemon
+
 npm install express mongoose
+
 ![Screenshot 2025-05-19 233309](https://github.com/user-attachments/assets/72a5a89b-693a-4089-a23b-b05f23a35a3c)
 ![Screenshot 2025-05-19 233334](https://github.com/user-attachments/assets/4383073f-ec28-4d5a-96e8-84ec7048f6e4)
 ![Screenshot 2025-05-19 233351](https://github.com/user-attachments/assets/7ce0b9de-9702-4936-a72b-a1ae7693f10f)
